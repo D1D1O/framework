@@ -8,4 +8,3 @@ new frame
 - [x] Localizar Rota
 - [ ] Bonificar interações do usuário
 - [ ] Dashboard monitoramento
-- [ ] 
