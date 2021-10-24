@@ -1,8 +1,11 @@
-# framawork
+# MeuBusão
 new frame
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Favoritar Rota
+- [x] Exibir Status da Rota
+- [x] Localizar Rota
+- [ ] Bonificar interações do usuário
+- [ ] Dashboard monitoramento
+- [ ] 
